@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dreamingOfSoy, or, Elijah James Mainwaring
+- 👋 Hi, I’m @dreamingOfSoy, or, if you like, Elijah James Mainwaring
 - 👀 I’m interested in songwriting and coding.
 - 🌱 I’m currently learning JavaScript and advanced CSS
 - 💞️ I’m looking to collaborate on coding projects that matter.
