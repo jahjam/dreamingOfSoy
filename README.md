@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreamingOfSoy, or, if you like, E. J. Mainwaring
 - 👀 I’m interested in songwriting and coding.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on coding projects that matter.
 - 📫 Reach me at dreamingofsoy@gmail.com.
 
