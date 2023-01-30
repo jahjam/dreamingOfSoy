@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dreamingOfSoy, or, if you like, E. J. Mainwaring
+- 👋 Hi, I’m @dreamingOfSoy, or, if you like, Elijah James
 - 👀 I’m interested in songwriting and coding.
 - 🌱 I’m currently learning c++.
 - 📫 Reach me at soygazer@gmail.com.
