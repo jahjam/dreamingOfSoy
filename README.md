@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreamingOfSoy, or, if you like, Elijah James
 - 👀 I’m interested in songwriting and coding.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently planning and portfolio website and learning c++.
 - 📫 Reach me at soygazer@gmail.com.
 
 <!---
