@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dreamingOfSoy, or, if you like, James Woodruff.
-- 🌱 I’m currently planning a portfolio website and learning Go.
+- 🌱 I’m currently learning C.
 - 📫 Reach me at soygazer@gmail.com.
 
 <!---
