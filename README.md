@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dreamingOfSoy, or, if you like, James Woodruff.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently building websites.
 - 📫 Reach me at soygazer@gmail.com.
 
 <!---
